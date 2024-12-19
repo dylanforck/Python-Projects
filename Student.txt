@@ -1,0 +1,11 @@
+============================================================
+	Welcome %s to the Student Management System
+
+		1. Add Student
+		2. Show Student
+		3. Modify Student
+		4. Delete Student
+		5. Query Student Scores
+		6. Return to the Previous Menu
+
+============================================================

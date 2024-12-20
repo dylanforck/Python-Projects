@@ -1,10 +1,3 @@
-#Dylan Forck
-#700601692
-#Project 2
-#Description: Student Management System - SQL Alchemy
-
-
-
 #Import SQL alchemy module
 from sqlalchemy import *
 from sqlalchemy.orm import sessionmaker, declarative_base

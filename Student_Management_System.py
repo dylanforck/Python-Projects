@@ -1,10 +1,3 @@
-#Dylan Forck
-#700601692
-#Project 2
-#Description: Student Management System
-
-
-
 #Import haslib module
 import hashlib
 
